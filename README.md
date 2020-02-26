@@ -6,3 +6,6 @@ This project features an Android Application for Library Management System with 
 
 Joint efforts from my batchmate.
 Original work hosted on : https://github.com/dollyrij-22/Library_app
+
+Snapshot of splash screen:
+![](Library_App.png)
